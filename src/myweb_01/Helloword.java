@@ -11,11 +11,8 @@ public class Helloword {
 		System.out.println("==========");
 		System.out.println("hello word");
 		System.out.println("----------");
-		System.out.println("==========");
-		int i = 0;
-		int q = i;
-		System.out.println("==========");
-		System.out.println("==========");
+		System.out.println("<<<<<<<<<<");
+		System.out.println(">>>>>>>>>>");
 	}
 
 }
