@@ -5,6 +5,7 @@ public class Helloword {
 		System.out.println("hello word");
 		System.out.println("----------");
 		System.out.println("==========");
+		int i = 0;
 	}
 
 }
